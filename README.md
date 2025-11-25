@@ -1,4 +1,4 @@
 # apnacollege-demo
 GIT repository
 <br>
-Author - Rithyasri
+Author - Rithyasri (apna college)
